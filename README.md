@@ -1,4 +1,4 @@
-# Lojavirtual - ITBAM - Kleberson Santos
+# Lojavirtual - Template
 
 Descrição:
 - App Loja virtual que realiza cadastro, listagem, edição, busca e remoção de produtos.
